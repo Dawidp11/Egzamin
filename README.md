@@ -1,1 +1,1 @@
-# Egzamin
+Strona działa kłopot z skryptem 
